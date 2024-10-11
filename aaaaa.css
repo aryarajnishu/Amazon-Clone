@@ -1,0 +1,95 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.arya{
+    height: 800px;
+    width: 400px;
+    background-color: none;
+    border: 5px solid white;
+}
+.first{
+    height: 450px;
+    background-color: antiquewhite;
+}
+.second{
+    position: relative;
+    top : 60px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+
+.box4{
+    text-align: center;
+    position: relative;
+    bottom: 255px;
+    background-color: white;
+    height: 550px;
+    width: 365px;
+}
+.box4-list1{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 30px;
+    height: 150px;
+    width: 350;
+    background-color: white;
+}
+.b4l1pic1{
+    height: 150px;
+    width: 150px;
+    background-image: url(baskets.jpg);
+    background-size: cover;
+}
+.b4l1pic2{
+    height: 150px;
+    width: 150px;
+    background-image: url(hardware.jpg);
+    background-size: cover;
+}
+.b4l1headline{
+    display: flex;
+    justify-content: space-evenly;
+    height: 80px;
+}
+.box4-list2{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 20px;
+    height: 150px;
+    width: 350;
+    background-color: white;
+}
+.b4l2pic1{
+    height: 150px;
+    width: 150px;
+    background-image: url(Accent.jpg);
+    background-size: cover;
+}
+.b4l2pic2{
+    height: 150px;
+    width: 150px;
+    background-image: url(Wallpaper.jpg);
+    background-size: cover;
+}
+.b4l2headline{
+    display: flex;
+    justify-content: space-evenly;
+    height: 80px;
+}
+.box4-see{
+    position: relative;
+    left: 17px;
+
+    width: 300px;
+    text-align:  start;
+    position: relative;
+    top: 10px;
+    background-color: white;
+}

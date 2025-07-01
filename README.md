@@ -11,8 +11,6 @@ This project focuses on replicating the front-end look and feel of Amazon’s ho
 
 ## 📸 Preview
 
-![Amazon Clone Screenshot]([./screenshot.png](https://foolishdeveloper.com/wp-content/uploads/2024/05/thumbnail-5.png))
-
 > Add a screenshot of your landing page here. If hosted, add a live demo link below.
 
 ## 📚 Features
@@ -26,10 +24,10 @@ This project focuses on replicating the front-end look and feel of Amazon’s ho
 ## 📂 Folder Structure
 
 amazon-landing-page/
-│
 ├── index.html
 ├── style.css
 ├── script.js
-├── /images
-│ └── (your images here)
+├── images/
+│   └── (your images here)
 └── README.md
+
